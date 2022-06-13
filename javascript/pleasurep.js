@@ -5,8 +5,8 @@ if (fullName == "") {
 // else if (fullName == isNaN());  {
 //     prompt("Your name is required");
 // }
-alert("Hello, " + fullName + " welcome to Pleasure Park.");
-let age = prompt("please input your age for discount");
+
+let age;
 const costPrice = 1500;
 const naira = "NGN";
 let txt = "Your discount is ";
